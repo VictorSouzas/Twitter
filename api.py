@@ -3,8 +3,8 @@ from requests_oauthlib import OAuth1
 from status_update import status_up
 
 
-consumer_key = "IF5yN6xFTqJSLzqpH8AsOgo0y"
-consumer_secret = "SeUCPcF1g6P3vrArhQZDS1Q849id3VwequIwbp4PdiqUouqfwl"
+consumer_key = ""
+consumer_secret = ""
 
 token, secret = get_access_token.main(consumer_key, consumer_secret)
 
